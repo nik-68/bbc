@@ -12,6 +12,7 @@ import string
 import json
 import sys
 
+os.system("clear")
 print (Fore.GREEN + """
  =DDos script=
 """)
